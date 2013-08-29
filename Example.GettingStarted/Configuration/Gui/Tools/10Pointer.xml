@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tool type="Imint.Vidview.Tools:Pointer.Tool">
+  <ToolTip>Pointer</ToolTip>
+  <Widget type="Imint.Vidview.Tools:Pan.Center" />
+	<Widget type="Imint.Vidview.Tools:Zoom.Reset" />
+	<Widget type="Imint.Vidview.Tools:Zoom.Fit" />
+	<Widget type="Imint.Vidview.Tools:Rotate.Reset" />
+</Tool>

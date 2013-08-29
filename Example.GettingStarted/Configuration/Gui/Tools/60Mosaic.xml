@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tool type="Imint.Vidview.Tools:Mosaic.Tool">
+	<ToolTip>Mosaic</ToolTip>
+	<Widget type="Imint.Vidview.Tools:Mosaic.Mode" />
+	<Widget type="Imint.Vidview.Tools:Mosaic.Fade" />
+</Tool>

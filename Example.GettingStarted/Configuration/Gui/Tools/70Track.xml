@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tool type="Imint.Vidview.Tools:Track.Tool">
+	<ToolTip>Track</ToolTip>
+	<Widget type="Imint.Vidview.Tools:Track.Stop" />
+	<Widget type="Imint.Vidview.Tools:Track.Adaptive" />
+	<Widget type="Imint.Vidview.Tools:Track.Static" />
+	<Widget type="Imint.Vidview.Tools:Track.Quality" />
+	<Widget type="Imint.Vidview.Tools:Track.Bounds" />
+</Tool>

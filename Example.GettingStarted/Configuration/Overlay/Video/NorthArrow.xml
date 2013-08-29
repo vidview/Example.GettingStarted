@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Overlay type="Imint.Viewer.Overlays:Transformer" >
+	<Name>northarrow</Name>
+	<Align>LeftTop</Align>
+	<Symbol>
+		<svg
+			xmlns:svg="http://www.w3.org/2000/svg"
+			xmlns="http://www.w3.org/2000/svg"
+			version="1.1"
+			width="21"
+			height="31"
+			id="cross"
+			fill="#a73e10">
+			<path
+				d="m 10.5,10.40625 -4.96875,7.90625 2.78125,0 0,11.96875 4.375,0 0,-11.96875 2.78125,0 L 10.5,10.40625 z"
+				id="transformA" />
+			<path
+				d="m 7.1194898,9.7764463 0,-8.5224884 1.6742679,0 3.4880583,5.691348 0,-5.691348 1.598693,0 0,8.5224884 -1.726589,0 -3.4357369,-5.5576391 0,5.5576391 z"
+				id="n" />
+		</svg>
+	</Symbol>
+	<Transform>1 0 0 1 40 10</Transform>
+</Overlay>

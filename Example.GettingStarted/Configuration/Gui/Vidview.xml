@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Content type="Imint.Vidview.Tools:License">
+	<Content type="Imint.Vidview.Media:Open">
+		<?include ./Sources/*.xml ?>
+		<Content type="Imint.Vidview:Gui.Grid">
+			<Content type="Imint.Vidview.Tools:Viewer">
+				<?include ./Tools/*.xml ?>
+			</Content>
+			<Bottom type="Imint.Vidview.Media:Control" />
+		</Content>
+	</Content>
+</Content>

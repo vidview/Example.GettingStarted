@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Overlay type="Imint.Viewer.Overlays:UpdateRate" >
+	<Name>rate</Name>
+	<Align>RightBottom</Align>
+	<Transform>1 0 0 1 0 0</Transform>
+</Overlay>

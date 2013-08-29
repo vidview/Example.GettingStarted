@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tool type="Imint.Vidview.Tools:Overlay.Tool">
+	<ToolTip>Overlay</ToolTip>
+	<Widget type="Imint.Vidview.Tools:Overlay.TextBox">
+		<Overlay>text1</Overlay>
+	</Widget>
+	<Widget type="Imint.Vidview.Tools:Overlay.OnOff">
+		<Overlay>text1</Overlay>
+	</Widget>
+	<Widget type="Imint.Vidview.Tools:Overlay.FontSize">
+		<Overlay>text1</Overlay>
+		<Size>10px</Size>
+	</Widget>
+	<Widget type="Imint.Vidview.Tools:Overlay.FontSize">
+		<Overlay>text1</Overlay>
+		<Size>18px</Size>
+	</Widget>
+	<Widget type="Imint.Vidview.Tools:Overlay.FontSize">
+		<Overlay>text1</Overlay>
+		<Size>25px</Size>
+	</Widget>
+	
+	<Widget type="Imint.Vidview.Tools:Overlay.TextBox">
+		<Overlay>text2</Overlay>
+	</Widget>
+	<Widget type="Imint.Vidview.Tools:Overlay.OnOff">
+		<Overlay>text2</Overlay>
+	</Widget>
+	<Widget type="Imint.Vidview.Tools:Overlay.FontSize">
+		<Overlay>text2</Overlay>
+		<Size>15px</Size>
+	</Widget>
+	<Widget type="Imint.Vidview.Tools:Overlay.FontSize">
+		<Overlay>text2</Overlay>
+		<Size>30px</Size>
+	</Widget>
+	<Widget type="Imint.Vidview.Tools:Overlay.FontSize">
+		<Overlay>text2</Overlay>
+		<Size>45px</Size>
+	</Widget>
+	
+	<Widget type="Imint.Vidview.Tools:Overlay.Watch">
+		<Overlay>watch</Overlay>
+	</Widget>
+	<Widget type="Imint.Vidview.Tools:Overlay.Cross">
+		<Overlay>cross</Overlay>
+	</Widget>
+</Tool>

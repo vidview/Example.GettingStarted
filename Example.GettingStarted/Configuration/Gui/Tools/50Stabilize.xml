@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tool type="Imint.Vidview.Tools:Stabilize.Tool">
+	<ToolTip>Stabilize</ToolTip>
+	<Widget type="Imint.Vidview.Tools:Stabilize.Off" />
+	<Widget type="Imint.Vidview.Tools:Stabilize.Auto" />
+	<Widget type="Imint.Vidview.Tools:Stabilize.Overview" />
+	<Widget type="Imint.Vidview.Tools:Stabilize.Zoom" />
+	<Widget type="Imint.Vidview.Tools:Stabilize.Operator" />
+</Tool>

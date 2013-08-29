@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Overlay type="Imint.Viewer.Overlays:Text">
+	<Name>watch</Name>
+	<Value>This is a watch</Value>
+	<Align>LeftTop</Align>
+	<Transform>1 0 0 1 0 0</Transform>
+</Overlay>

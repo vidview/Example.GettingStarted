@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tool type="Imint.Vidview.Tools:Pan.Tool">
+  <ToolTip>Pan</ToolTip>
+  <Widget type="Imint.Vidview.Tools:Pan.Center" />
+  <Widget type="Imint.Vidview.Tools:Pan.Left" />
+	<Widget type="Imint.Vidview.Tools:Pan.Up" />
+	<Widget type="Imint.Vidview.Tools:Pan.Down" />
+	<Widget type="Imint.Vidview.Tools:Pan.Right" />
+</Tool>

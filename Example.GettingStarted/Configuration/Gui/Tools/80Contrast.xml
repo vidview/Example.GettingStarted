@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tool type="Imint.Vidview.Tools:Contrast.Tool">
+	<ToolTip>Contrast</ToolTip>
+	<Widget type="Imint.Vidview.Tools:Contrast.Off" />
+	<Widget type="Imint.Vidview.Tools:Contrast.Luma" />
+	<!--<Widget type="Imint.Vidview.Tools:Contrast.Color" />-->
+	<Widget type="Imint.Vidview.Tools:Contrast.Colorize" />
+	<Widget type="Imint.Vidview.Tools:Contrast.Monochrome" />
+	<Widget type="Imint.Vidview.Tools:Contrast.SlideBar" />
+	<Widget type="Imint.Vidview.Tools:Contrast.Complexity" />
+</Tool>

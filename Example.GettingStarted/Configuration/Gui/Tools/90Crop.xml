@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tool type="Imint.Vidview.Tools:Crop.Tool">
+	<ToolTip>Crop</ToolTip>
+	<Widget type="Imint.Vidview.Tools:Crop.Slider" />
+	<Widget type="Imint.Vidview.Tools:Crop.Ratio">
+		<Value>0:1</Value>
+		<Value>16:9</Value>
+		<Value>4:3</Value>
+		<Value>5:4</Value>
+		<Value>1:1</Value>
+	</Widget>
+</Tool>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Overlay type="Imint.Viewer.Overlays:Static" >
+	<Name>cross</Name>
+	<Symbol>
+		<svg
+			 xmlns:svg="http://www.w3.org/2000/svg"
+			 xmlns="http://www.w3.org/2000/svg"
+			 version="1.1"
+			 width="41"
+			 height="41"
+			 id="cross"
+			 stroke="#a73e10"
+			 stroke-width="2px"
+			 stroke-linecap="butt"
+			 stroke-linejoin="miter"
+			 stroke-opacity="1">
+			<path
+				 d="m 25.752835,40.44747 -10.50567,0 m 5.25284,-39.89494 0,39.89494 m 5.25283,-39.89494 -10.50567,0 m 25.20031,14.69463 0,10.50567 M 0.552525,20.5 l 39.89495,0 m -39.89495,-5.25284 0,10.50567"
+				 id="crosspath" />
+		</svg>
+	</Symbol>
+	<SizeTag>FrameSize</SizeTag>
+	<TransformTag>FrameTransform</TransformTag>
+	<Align>CenterMiddle</Align>
+	<Transform>1 0 0 1 0 0</Transform>
+</Overlay>

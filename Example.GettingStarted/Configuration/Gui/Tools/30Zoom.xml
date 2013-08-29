@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tool type="Imint.Vidview.Tools:Zoom.Tool">
+	<ToolTip>Zoom</ToolTip>
+	<Widget type="Imint.Vidview.Tools:Zoom.Reset" />
+	<Widget type="Imint.Vidview.Tools:Zoom.Fit" />
+	<Widget type="Imint.Vidview.Tools:Zoom.Out" />
+	<Widget type="Imint.Vidview.Tools:Zoom.SlideBar" />
+	<Widget type="Imint.Vidview.Tools:Zoom.In" />
+</Tool>
