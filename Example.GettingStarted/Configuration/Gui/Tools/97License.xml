@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tool type="Imint.Vidview.Tools:License.Tool">
+	<ToolTip>License</ToolTip>
+	<Widget type="Imint.Vidview.Tools:License.Panel" />
+</Tool>

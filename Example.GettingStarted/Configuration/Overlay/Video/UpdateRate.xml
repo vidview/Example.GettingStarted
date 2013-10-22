@@ -2,5 +2,5 @@
 <Overlay type="Imint.Viewer.Overlays:UpdateRate" >
 	<Name>rate</Name>
 	<Align>RightBottom</Align>
-	<Transform>1 0 0 1 0 0</Transform>
+	<Transform>1 0 0 1 0 -20</Transform>
 </Overlay>

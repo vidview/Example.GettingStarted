@@ -9,4 +9,5 @@
 		<Value>5:4</Value>
 		<Value>1:1</Value>
 	</Widget>
+	<Widget type="Imint.Vidview.Tools:Crop.Deinterlace" />
 </Tool>

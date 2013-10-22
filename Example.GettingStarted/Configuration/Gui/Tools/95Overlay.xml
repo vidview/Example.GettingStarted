@@ -7,15 +7,15 @@
 	<Widget type="Imint.Vidview.Tools:Overlay.OnOff">
 		<Overlay>text1</Overlay>
 	</Widget>
-	<Widget type="Imint.Vidview.Tools:Overlay.FontSize">
+	<Widget type="Imint.Vidview.Tools:Overlay.FontSizeSmall">
 		<Overlay>text1</Overlay>
 		<Size>10px</Size>
 	</Widget>
-	<Widget type="Imint.Vidview.Tools:Overlay.FontSize">
+	<Widget type="Imint.Vidview.Tools:Overlay.FontSizeMedium">
 		<Overlay>text1</Overlay>
 		<Size>18px</Size>
 	</Widget>
-	<Widget type="Imint.Vidview.Tools:Overlay.FontSize">
+	<Widget type="Imint.Vidview.Tools:Overlay.FontSizeLarge">
 		<Overlay>text1</Overlay>
 		<Size>25px</Size>
 	</Widget>
@@ -26,15 +26,15 @@
 	<Widget type="Imint.Vidview.Tools:Overlay.OnOff">
 		<Overlay>text2</Overlay>
 	</Widget>
-	<Widget type="Imint.Vidview.Tools:Overlay.FontSize">
+	<Widget type="Imint.Vidview.Tools:Overlay.FontSizeSmall">
 		<Overlay>text2</Overlay>
 		<Size>15px</Size>
 	</Widget>
-	<Widget type="Imint.Vidview.Tools:Overlay.FontSize">
+	<Widget type="Imint.Vidview.Tools:Overlay.FontSizeMedium">
 		<Overlay>text2</Overlay>
 		<Size>30px</Size>
 	</Widget>
-	<Widget type="Imint.Vidview.Tools:Overlay.FontSize">
+	<Widget type="Imint.Vidview.Tools:Overlay.FontSizeLarge">
 		<Overlay>text2</Overlay>
 		<Size>45px</Size>
 	</Widget>
