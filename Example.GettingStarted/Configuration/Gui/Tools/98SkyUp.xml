@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Tool type="Imint.Vidview.Tools:SkyUp.Tool">
-	<ToolTip>SkyUp</ToolTip>
-	<Widget type="Imint.Vidview.Tools:SkyUp.Mode" />
-	<Widget type="Imint.Vidview.Tools:SkyUp.Speed" />
-</Tool>

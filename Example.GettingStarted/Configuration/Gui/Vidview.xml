@@ -2,6 +2,7 @@
 <Content type="Imint.Vidview.Tools:LicenseDialog">
 	<Content type="Imint.Vidview.Media:Open">
 		<?include ./Sources/*.xml ?>
+		<?include ./Settings/*.xml ?>
 		<Content type="Imint.Vidview:Gui.Grid">
 			<Content type="Imint.Vidview.Tools:Viewer">
 				<?include ./Tools/*.xml ?>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Overlay type="Imint.Viewer.Overlays:Latency" >
 	<Name>latency</Name>
-  <TextAlign>end</TextAlign>
+	<TextAlign>end</TextAlign>
 	<Align>RightBottom</Align>
 	<Transform>1 0 0 1 0 -40</Transform>
 </Overlay>

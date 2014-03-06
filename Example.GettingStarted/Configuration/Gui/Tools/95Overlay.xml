@@ -1,6 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Tool type="Imint.Vidview.Tools:Overlay.Tool">
 	<ToolTip>Overlay</ToolTip>
+	<!--<Widget type="Imint.Vidview.Tools:Overlay.Transformer">
+		<Overlay>cameracompass</Overlay>
+		<Transform>TransformA</Transform>
+	</Widget>
+	<Widget type="Imint.Vidview.Tools:Overlay.Transformer">
+		<Overlay>cameracompass</Overlay>
+		<Transform>TransformB</Transform>
+	</Widget>
+	<Widget type="Imint.Vidview.Tools:Overlay.MouseSpinner">
+		<Overlay>cameracompass</Overlay>
+	</Widget>-->
 	<Widget type="Imint.Vidview.Tools:Overlay.TextBox">
 		<Overlay>text1</Overlay>
 	</Widget>
