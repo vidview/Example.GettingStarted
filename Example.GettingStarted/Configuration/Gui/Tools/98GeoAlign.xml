@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tool type="Imint.Vidview.Tools:Geo.Align.Tool">
+	<ToolTip>Geo.Align</ToolTip>
+	<Widget type="Imint.Vidview.Tools:Geo.Align.Off" />
+	<Widget type="Imint.Vidview.Tools:Geo.Align.SkyUp" />
+	<Widget type="Imint.Vidview.Tools:Geo.Align.NorthUp" />
+	<Widget type="Imint.Vidview.Tools:Geo.Align.Speed" />
+	<Widget type="Imint.Vidview.Tools:Geo.Align.Offset" />
+</Tool>
