@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Bottom type="Imint.Vidview.Tools:Control">
+	<Widget type="Imint.Vidview.Tools:Media.Previous" />
+	<Widget type="Imint.Vidview.Tools:Media.PlayPause" />
+	<Widget type="Imint.Vidview.Tools:Media.Eject" />
+	<Widget type="Imint.Vidview.Tools:Media.Next" />
+	<Widget type="Imint.Vidview.Tools:Media.Position" />
+	<Widget type="Imint.Vidview.Tools:Media.Panel" />
+</Bottom>

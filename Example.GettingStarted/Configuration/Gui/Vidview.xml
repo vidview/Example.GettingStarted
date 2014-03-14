@@ -7,7 +7,7 @@
 			<Content type="Imint.Vidview.Tools:Viewer">
 				<?include ./Tools/*.xml ?>
 			</Content>
-			<Bottom type="Imint.Vidview.Media:Control" />
+			<?include ./Control.xml ?>
 		</Content>
 	</Content>
 </Content>
