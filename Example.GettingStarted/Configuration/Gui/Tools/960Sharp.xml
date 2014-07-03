@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tool type="Imint.Vidview.Tools:Sharp.Tool">
+	<ToolTip>Sharpness</ToolTip>
+	<Widget type="Imint.Vidview.Tools:Sharp.Off" />
+	<Widget type="Imint.Vidview.Tools:Sharp.Snapshot" />
+	<Widget type="Imint.Vidview.Tools:Sharp.Pause" />
+	<Widget type="Imint.Vidview.Tools:Sharp.Filter" />
+</Tool>
